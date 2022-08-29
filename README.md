@@ -1,5 +1,5 @@
 # groupsSystem
-Prosty system grup który można wykorzystać na wiele sposobów na przykład jako multijob. Zalecam aby pobrać [zbudowaną już wersje.](https://github.com/Mortiaczek/groupsSystem/releases/tag/resource)
+Prosty system grup który można wykorzystać na wiele sposobów na przykład jako multijob. Zalecam aby pobrać [zbudowaną wersje.](https://github.com/Mortiaczek/groupsSystem/releases/tag/resource)
 
 ### Panel tworzenie grupy dla administratora.
 
