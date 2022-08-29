@@ -1,0 +1,2 @@
+GroupSystem = {}
+GroupSystem.groups = {}
