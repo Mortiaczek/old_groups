@@ -5,8 +5,6 @@ Prosty system grup który można wykorzystać na wiele sposobów na przykład ja
 
 ![Zdjecia panelu](https://i.imgur.com/OoJi1LP.png)
 
-[Video preview.](https://streamable.com/8gml0s)
-
 Wymagane skrypty:
 > - [oxmysql](https://github.com/overextended/oxmysql)
 > - [es_extended (esx legacy)](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
